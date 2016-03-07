@@ -1,2 +1,1 @@
-# ws_2c2f53487c87fb4f63a95a860766452b
 static page
