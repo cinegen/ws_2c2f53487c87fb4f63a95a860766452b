@@ -1,0 +1,5 @@
+# Exclude OSX Files
+.DS_Store
+
+# Exclude Head Snippet
+img/favicon/html_head_snippet.html
