@@ -1,0 +1,29 @@
+#background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    background: url(../../img/cover03.jpg) no-repeat center;
+    background-size: cover;
+}
+
+#color-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(123, 206, 255, 0.5);
+    background-image: -webkit-linear-gradient(-410deg, rgba(255, 255, 255, 0.25) 20%, rgba(255, 255, 255, 0.5));
+    background-image: linear-gradient(140deg,rgba(255, 255, 255, 0.25) 20%, rgba(255, 255, 255, 0.5)); 
+    opacity: 1;
+}
+
+.cover-heading {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin: auto;
+}
